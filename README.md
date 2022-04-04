@@ -7,4 +7,5 @@ Salah satu program dalam R yang bisa membuat menu User Interface yang berbasis w
 
 # Referensi
 Gio, P., U., & Effendie, A., R. 2017. Belajar Bahasa Pemrograman R (Dilengkapi Cara Membuat Aplikasi Olah Data Sederhana dengan R Shiny). Medan: USU Press.
+
 Tirta, I., M. 2014. Pengembangan E-Modul Statistika Terintegrasi dan Dinamik dengan R-Shiny dan mathJax. Prosiding Seminar Nasional Matematika Universitas Jember, 223–232.
